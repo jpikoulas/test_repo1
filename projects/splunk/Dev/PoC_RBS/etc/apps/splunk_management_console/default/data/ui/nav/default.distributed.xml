@@ -1,0 +1,56 @@
+<nav color="#65A637">
+  <view name="managementconsole_overview" default="true" />
+  <view name="managementconsole_instances" />
+  <collection label="Indexing">
+    <collection label="Performance">
+      <view name="indexing_performance_instance" />
+      <view name="indexing_performance_deployment" />
+    </collection>
+    <collection label="Indexer Clustering">
+        <!--<a href="Clustering">Indexer Clustering: Status</a>-->
+      <view name="indexer_clustering_status" />
+      <view name="indexer_clustering_service_activity" />
+    </collection>
+    <collection label="Indexes and Volumes">
+      <view name="indexes_and_volumes_instance" />
+      <view name="indexes_and_volumes_deployment" />
+      <view name="index_detail_instance" />
+      <view name="index_detail_deployment" />
+      <view name="volume_detail_instance" />
+      <view name="volume_detail_deployment" />
+    </collection>
+    <view name="Licensing" />
+  </collection>
+  <collection label="Search">
+    <collection label="Activity">
+      <view name="search_activity_instance" />
+      <view name="search_activity_deployment" />
+      <view name="search_usage_statistics" />
+    </collection>
+    <collection label="KV Store">
+      <view name="kv_store_instance" />
+      <view name="kv_store_deployment" />
+    </collection>
+    <collection label="Search Head Clustering">
+      <view name="shc_status_and_conf" />
+      <view name="shc_conf_rep" />
+      <view name="shc_artifact_replication" />
+      <view name="shc_scheduler_delegation_statistics" />
+      <view name="shc_app_deployment" />
+    </collection>
+  </collection>
+  <collection label="Resource Usage">
+    <view name="resource_usage_instance" />
+    <view name="resource_usage_machine" />
+    <view name="resource_usage_deployment" />
+  </collection>
+    <collection label="Forwarders">
+      <view name="forwarder_instance" />
+      <view name="forwarder_deployment" />
+    </collection>
+  <collection label="Settings">
+    <view name="managementconsole_configure" />
+    <view name="managementconsole_forwarder_setup" />
+  </collection>
+  <a href="search">Run a Search</a>
+</nav>

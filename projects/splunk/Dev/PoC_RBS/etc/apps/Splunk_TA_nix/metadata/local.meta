@@ -1,0 +1,131 @@
+[inputs/monitor%3A%2F%2F%2Fetc]
+version = 6.3.1
+modtime = 1447686373.027914000
+
+[inputs/monitor%3A%2F%2F%2FLibrary%2FLogs]
+version = 6.3.1
+modtime = 1447686373.063585000
+
+[inputs/monitor%3A%2F%2F%2Fhome%2F...%2F.bash_history]
+version = 6.3.1
+modtime = 1447686373.059184000
+
+[inputs/monitor%3A%2F%2F%2Froot%2F.bash_history]
+version = 6.3.1
+modtime = 1447686373.067593000
+
+[inputs/monitor%3A%2F%2F%2Fvar%2Fadm]
+version = 6.3.1
+modtime = 1447686373.098233000
+
+[inputs/monitor%3A%2F%2F%2Fvar%2Flog]
+version = 6.3.1
+modtime = 1447686373.101477000
+
+[inputs/script%3A%2F%2F.%2Fbin%2Fcpu.sh]
+version = 6.3.1
+modtime = 1447686373.122111000
+
+[inputs/script%3A%2F%2F.%2Fbin%2Fdf.sh]
+version = 6.3.1
+modtime = 1447686373.151381000
+
+[inputs/script%3A%2F%2F.%2Fbin%2Fhardware.sh]
+version = 6.3.1
+modtime = 1447686373.175169000
+
+[inputs/script%3A%2F%2F.%2Fbin%2Fiostat.sh]
+version = 6.3.1
+modtime = 1447686373.199615000
+
+[inputs/script%3A%2F%2F.%2Fbin%2Flastlog.sh]
+version = 6.3.1
+modtime = 1447686373.228673000
+
+[inputs/script%3A%2F%2F.%2Fbin%2Finterfaces.sh]
+version = 6.3.1
+modtime = 1447686373.172547000
+
+[inputs/script%3A%2F%2F.%2Fbin%2Flsof.sh]
+version = 6.3.1
+modtime = 1447686373.232793000
+
+[inputs/script%3A%2F%2F.%2Fbin%2Fnetstat.sh]
+version = 6.3.1
+modtime = 1447686373.273790000
+
+[inputs/script%3A%2F%2F.%2Fbin%2FopenPorts.sh]
+version = 6.3.1
+modtime = 1447686373.266097000
+
+[inputs/script%3A%2F%2F.%2Fbin%2Fpasswd.sh]
+version = 6.3.1
+modtime = 1447686373.321327000
+
+[inputs/script%3A%2F%2F.%2Fbin%2FopenPortsEnhanced.sh]
+version = 6.3.1
+modtime = 1447686373.289836000
+
+[inputs/script%3A%2F%2F.%2Fbin%2Fprotocol.sh]
+version = 6.3.1
+modtime = 1447686373.340401000
+
+[inputs/script%3A%2F%2F.%2Fbin%2Fps.sh]
+version = 6.3.1
+modtime = 1447686373.382624000
+
+[inputs/script%3A%2F%2F.%2Fbin%2Frlog.sh]
+version = 6.3.1
+modtime = 1447686373.352543000
+
+[inputs/script%3A%2F%2F.%2Fbin%2FselinuxChecker.sh]
+version = 6.3.1
+modtime = 1447686373.349456000
+
+[inputs/script%3A%2F%2F.%2Fbin%2Fservice.sh]
+version = 6.3.1
+modtime = 1447686373.386448000
+
+[inputs/script%3A%2F%2F.%2Fbin%2FsshdChecker.sh]
+version = 6.3.1
+modtime = 1447686373.424082000
+
+[inputs/script%3A%2F%2F.%2Fbin%2Ftime.sh]
+version = 6.3.1
+modtime = 1447686373.429176000
+
+[inputs/script%3A%2F%2F.%2Fbin%2Fupdate.sh]
+version = 6.3.1
+modtime = 1447686373.526562000
+
+[inputs/script%3A%2F%2F.%2Fbin%2Ftop.sh]
+version = 6.3.1
+modtime = 1447686373.464070000
+
+[inputs/script%3A%2F%2F.%2Fbin%2Fpackage.sh]
+version = 6.3.1
+modtime = 1447686373.469845000
+
+[inputs/script%3A%2F%2F.%2Fbin%2Fuptime.sh]
+version = 6.3.1
+modtime = 1447686373.477202000
+
+[inputs/script%3A%2F%2F.%2Fbin%2FusersWithLoginPrivs.sh]
+version = 6.3.1
+modtime = 1447686373.535875000
+
+[inputs/script%3A%2F%2F.%2Fbin%2Fversion.sh]
+version = 6.3.1
+modtime = 1447686373.561782000
+
+[inputs/script%3A%2F%2F.%2Fbin%2Fvmstat.sh]
+version = 6.3.1
+modtime = 1447686373.583495000
+
+[inputs/script%3A%2F%2F.%2Fbin%2Fwho.sh]
+version = 6.3.1
+modtime = 1447686373.603637000
+
+[inputs/script%3A%2F%2F.%2Fbin%2FvsftpdChecker.sh]
+version = 6.3.1
+modtime = 1447686373.586652000

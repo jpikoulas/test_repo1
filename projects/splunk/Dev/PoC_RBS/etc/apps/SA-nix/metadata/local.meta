@@ -1,0 +1,75 @@
+[macros/users_with_login_privs_sourcetype]
+version = 6.3.1
+modtime = 1447686263.805389000
+
+[macros/package_sourcetype]
+version = 6.3.1
+modtime = 1447686263.830865000
+
+[macros/lsof_sourcetype]
+version = 6.3.1
+modtime = 1447686263.853191000
+
+[macros/syslog_sourcetype]
+version = 6.3.1
+modtime = 1447686263.875344000
+
+[macros/os_index]
+version = 6.3.1
+modtime = 1447686263.903076000
+
+[macros/who_sourcetype]
+version = 6.3.1
+modtime = 1447686263.926008000
+
+[macros/interfaces_sourcetype]
+version = 6.3.1
+modtime = 1447686263.949124000
+
+[macros/open_ports_sourcetype]
+version = 6.3.1
+modtime = 1447686263.970884000
+
+[macros/hardware_sourcetype]
+version = 6.3.1
+modtime = 1447686263.991865000
+
+[macros/memory_sourcetype]
+version = 6.3.1
+modtime = 1447686264.013044000
+
+[macros/ps_sourcetype]
+version = 6.3.1
+modtime = 1447686264.034506000
+
+[macros/rlog_sourcetype]
+version = 6.3.1
+modtime = 1447686264.055206000
+
+[macros/iostat_sourcetype]
+version = 6.3.1
+modtime = 1447686264.076188000
+
+[macros/df_sourcetype]
+version = 6.3.1
+modtime = 1447686264.097142000
+
+[macros/time_sourcetype]
+version = 6.3.1
+modtime = 1447686264.120428000
+
+[macros/cpu_sourcetype]
+version = 6.3.1
+modtime = 1447686264.145947000
+
+[macros/netstat_sourcetype]
+version = 6.3.1
+modtime = 1447686264.171584000
+
+[macros/top_sourcetype]
+version = 6.3.1
+modtime = 1447686264.192031000
+
+[macros/lastlog_sourcetype]
+version = 6.3.1
+modtime = 1447686264.212940000

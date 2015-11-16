@@ -1,0 +1,19 @@
+[nix_view_prefs/home]
+version = 6.3.1
+modtime = 1447688482.983255000
+
+[history/.dummy_history]
+version = 6.3.1
+modtime = 1447684780.058493000
+
+[unix/admin]
+version = 6.3.1
+modtime = 1447684942.788257000
+
+[nix_view_prefs/hosts]
+version = 6.3.1
+modtime = 1447686492.571294000
+
+[nix_view_prefs/metrics]
+version = 6.3.1
+modtime = 1447686200.436922000

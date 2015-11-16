@@ -1,0 +1,30 @@
+<nav color="#65A637">
+  <view name="managementconsole_overview" default="true" />
+  <collection label="Indexing">
+    <view name="indexing_performance_instance" />
+    <collection label="Indexes and Volumes">
+      <view name="indexes_and_volumes_instance" />
+      <view name="index_detail_instance" />
+      <view name="volume_detail_instance" />
+    </collection>
+    <view name="Licensing" />
+  </collection>
+  <collection label="Search">
+    <view name="search_activity_instance" />
+    <view name="search_usage_statistics" />
+    <view name="kv_store_instance" />
+  </collection>
+  <collection label="Resource Usage">
+    <view name="resource_usage_instance" />
+    <view name="resource_usage_machine" />
+  </collection>
+  <collection label="Forwarders">
+    <view name="forwarder_instance" />
+    <view name="forwarder_deployment" />
+  </collection>
+  <collection label="Settings">
+    <view name="managementconsole_configure" />
+    <view name="managementconsole_forwarder_setup" />
+  </collection>
+  <a href="search">Run a Search</a>
+</nav>

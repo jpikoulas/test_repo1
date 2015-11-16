@@ -1,0 +1,199 @@
+[props/http_event_collector_metrics-too_small]
+owner = nobody
+version = 6.3.1
+modtime = 1447328004.076829000
+
+[props/splunkd_stdout-too_small]
+owner = nobody
+version = 6.3.1
+modtime = 1447328004.110879000
+
+[props/first_install-too_small]
+owner = nobody
+version = 6.3.1
+modtime = 1447328004.140515000
+
+[props/export_metrics-too_small]
+owner = nobody
+version = 6.3.1
+modtime = 1447328015.084269000
+
+[props/splunkd_stdout-2]
+owner = nobody
+version = 6.3.1
+modtime = 1447684768.156091000
+
+[sourcetypes/%2Fopt%2Fsplunk%2Fvar%2Flog%2Fsplunk%2Fsplunkd_stdout.log_Mon_Nov_16_14%3A39%3A28_2015_1832850967]
+owner = nobody
+version = 6.3.1
+modtime = 1447684768.303904000
+
+[props/dpkg]
+owner = nobody
+version = 6.3.1
+modtime = 1447684768.739660000
+
+[sourcetypes/%2Fvar%2Flog%2Fdpkg.log_Mon_Nov_16_14%3A39%3A28_2015_694262276]
+owner = nobody
+version = 6.3.1
+modtime = 1447684768.835613000
+
+[sourcetypes/%2Fvar%2Flog%2Fdpkg.log_Mon_Nov_16_14%3A39%3A28_2015_2123627501]
+owner = nobody
+version = 6.3.1
+modtime = 1447684768.925876000
+
+[sourcetypes/%2Fvar%2Flog%2Fdpkg.log_Mon_Nov_16_14%3A39%3A28_2015_34777634]
+owner = nobody
+version = 6.3.1
+modtime = 1447684769.023889000
+
+[sourcetypes/%2Fvar%2Flog%2Fdpkg.log_Mon_Nov_16_14%3A39%3A29_2015_1242889395]
+owner = nobody
+version = 6.3.1
+modtime = 1447684769.179705000
+
+[sourcetypes/%2Fvar%2Flog%2Fdpkg.log_Mon_Nov_16_14%3A39%3A29_2015_1432375920]
+owner = nobody
+version = 6.3.1
+modtime = 1447684769.299839000
+
+[props/bootstrap]
+owner = nobody
+version = 6.3.1
+modtime = 1447684769.541509000
+
+[sourcetypes/%2Fvar%2Flog%2Fbootstrap.log_Mon_Nov_16_14%3A39%3A29_2015_1707174377]
+owner = nobody
+version = 6.3.1
+modtime = 1447684769.727478000
+
+[props/alternatives-too_small]
+owner = nobody
+version = 6.3.1
+modtime = 1447684769.831433000
+
+[props/fontconfig-too_small]
+owner = nobody
+version = 6.3.1
+modtime = 1447684769.847674000
+
+[props/history-too_small]
+owner = nobody
+version = 6.3.1
+modtime = 1447684769.868770000
+
+[props/paladin-too_small]
+owner = nobody
+version = 6.3.1
+modtime = 1447684781.561942000
+
+[props/scHeadlinesHandler-too_small]
+owner = nobody
+version = 6.3.1
+modtime = 1447684781.579043000
+
+[props/mtab-too_small]
+owner = nobody
+version = 6.3.1
+modtime = 1447685639.156907000
+
+[props/fstab-too_small]
+owner = nobody
+version = 6.3.1
+modtime = 1447685639.249871000
+
+[props/bashrc-too_small]
+owner = nobody
+version = 6.3.1
+modtime = 1447685639.337030000
+
+[props/crontab-too_small]
+owner = nobody
+version = 6.3.1
+modtime = 1447685639.362742000
+
+[props/cnf]
+owner = nobody
+version = 6.3.1
+modtime = 1447685640.154523000
+
+[sourcetypes/%2Fetc%2Fssl%2Fopenssl.cnf_Mon_Nov_16_14%3A54%3A00_2015_978401172]
+owner = nobody
+version = 6.3.1
+modtime = 1447685640.358584000
+
+[props/config-too_small]
+owner = nobody
+version = 6.3.1
+modtime = 1447685640.420124000
+
+[props/sshd_config-too_small]
+owner = nobody
+version = 6.3.1
+modtime = 1447685640.456069000
+
+[props/ssh_config-too_small]
+owner = nobody
+version = 6.3.1
+modtime = 1447685640.477273000
+
+[props/profile-too_small]
+owner = nobody
+version = 6.3.1
+modtime = 1447685640.524463000
+
+[props/debian_config-too_small]
+owner = nobody
+version = 6.3.1
+modtime = 1447685640.545500000
+
+[props/init-too_small]
+owner = nobody
+version = 6.3.1
+modtime = 1447685640.631017000
+
+[props/back-too_small]
+owner = nobody
+version = 6.3.1
+modtime = 1447685640.820914000
+
+[props/20changelog-too_small]
+owner = nobody
+version = 6.3.1
+modtime = 1447685641.245380000
+
+[props/01autoremove-kernels-too_small]
+owner = nobody
+version = 6.3.1
+modtime = 1447685641.260803000
+
+[props/01autoremove-too_small]
+owner = nobody
+version = 6.3.1
+modtime = 1447685641.276462000
+
+[props/70debconf-too_small]
+owner = nobody
+version = 6.3.1
+modtime = 1447685641.297641000
+
+[props/base-too_small]
+owner = nobody
+version = 6.3.1
+modtime = 1447685641.564368000
+
+[props/head-too_small]
+owner = nobody
+version = 6.3.1
+modtime = 1447685641.585594000
+
+[props/original-too_small]
+owner = nobody
+version = 6.3.1
+modtime = 1447685641.601608000
+
+[props/tail-too_small]
+owner = nobody
+version = 6.3.1
+modtime = 1447685641.693090000
