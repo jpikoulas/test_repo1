@@ -1,7 +1,0 @@
-sid,search,"splunk_server","_time","is_realtime","__mv_sid","__mv_search","__mv_splunk_server","__mv__time","__mv_is_realtime"
-"1447331721.10","| eventcount summarize=false index=* index=_* | dedup index",linux,"1447331721.952880",0,,,,,
-"1447331722.11","| eventcount summarize=false index=* index=_* | dedup index",linux,"1447331722.052801",0,,,,,
-"1447331722.12","| eventcount summarize=false index=* index=_* | dedup index",linux,"1447331722.120079",0,,,,,
-"1447331722.13","| eventcount summarize=false index=* index=_* | dedup index",linux,"1447331722.186567",0,,,,,
-"1447335768.6","| eventcount summarize=false index=* index=_* | dedup index",linux,"1447335768.898209",0,,,,,
-"1447346943.58","| eventcount list_vix=false summarize=false index=* index=_* | dedup index",linux,"1447346943.206467",0,,,,,
